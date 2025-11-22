@@ -1,0 +1,10 @@
+Сводка результатов
+example1.bmp N=2: k=14, сжатие=2.2x
+example1.bmp N=4: k=7, сжатие=4.3x
+example1.bmp N=8: k=3, сжатие=10.1x
+example2.bmp N=2: k=15, сжатие=2.1x
+example2.bmp N=4: k=7, сжатие=4.6x
+example2.bmp N=8: k=3, сжатие=10.6x
+example3.bmp N=2: k=18, сжатие=2.1x
+example3.bmp N=4: k=9, сжатие=4.2x
+example3.bmp N=8: k=4, сжатие=9.5x
